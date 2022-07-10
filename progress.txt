@@ -1,0 +1,28 @@
+page list = done
+dashboard = done
+populer = done
+last update = done
+search = done
+live search = done
+404 page = done
+info manga = done
+read manga = done
+genre list & page= done
+page last update = done
+manga list = done
+advace search = done
+doujin list = done
+
+// finising
+beres beres = done
+test 
+logo = belum
+domain = belum
+vps = belum
+
+
+//note
+ubah script.js (disqusShortname jadi title web/nama web) di public\wp-content\js
+ubah autoptimize_single_b460f3e81ba63bfac78933670036ac69.js (sama juga kek script.js) di public\wp-content\js\autoptimize_single_b460f3e81ba63bfac78933670036ac69.js
+ubah juga config.json di lib
+kalo mau ubah logo di /public/wp-content/uploads/2020/05

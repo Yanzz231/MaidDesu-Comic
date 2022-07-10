@@ -1,0 +1,55 @@
+<main>
+    <div class="content">
+        <div class="container">
+            <h2><span>Advanced</span> Search</h2>
+            <div class="advancedsearch">
+                <form action="/advanced-search/" method="GET">
+                    <table width="100%">
+                        <tbody>
+                            <tr>
+                                <td class="lbl">Title</td>
+                                <td class="lbx"><input type="text" class="form-control" name="title" ${obj.title ? `value="${obj.title}" ` : ''}autocomplete="off"></td>
+                            </tr>
+                            <tr>
+                                <td class="lbl">Author</td>
+                                <td class="lbx"><input type="text" class="form-control" name="author" ${obj.author ? `value="${obj.author}" ` : ''}autocomplete="off"></td>
+                            </tr>
+                            <tr>
+                                <td class="lbl">Status</td>
+                                <td class="lbx">
+                                    <div class="custom-control custom-radio">
+                                        <input class="custom-control-input" id="allstats" type="radio" value="" name="status" ${obj.status && obj.status === 'all' ? `checked=""` : ''}>
+                                        <label class="custom-control-label" for="allstats">All</label>
+                                    </div>
+                                    <div class="custom-control custom-radio">
+                                        <input class="custom-control-input" id="ongostats" type="radio" value="ongoing" name="status" ${obj.status && obj.status === 'ongo' ? `checked=""` : ''}>
+                                        <label class="custom-control-label" for="ongostats">Ongoing</label>
+                                    </div>
+                                    <div class="custom-control custom-radio">
+                                        <input class="custom-control-input" id="compstats" type="radio" value="completed" name="status" ${obj.status && obj.status === 'end' ? `checked=""` : ''}>
+                                        <label class="custom-control-label" for="compstats">Completed</label>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="lbl">Type</td>
+                                <td class="lbx">
+                                    ${typeA(data, obj)}
+                                </td>
+                            </tr>
+                            <tr class="gnrx">
+                                <td class="lbl">Genre</td>
+                                <td class="lbx">                                    
+                                    ${genreA(data, obj)}
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="gnr">Show/Hide Genre</div><button type="submit" class="btn">Search</button>
+                </form>
+            </div>
+            <div class="flexbox2">${hasil ? hasil : ''}</div>
+            ${page ? `<div class="pagination ">${page}</div>` : ''}
+        </div>
+    </div>
+</main>

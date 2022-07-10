@@ -1,0 +1,21 @@
+{
+    "port": 80,
+    "nontif": false,
+    "title": "MangaDesu - Situs Baca Manga / Doujin Berbahasa Indonesia",
+    "desc": "MangaDesu",
+    "url": "http://localhost",
+    "name": "MangaDesu",
+    "trakteer": "https://saweria.co/MikasaGCH",
+    "imgtrakteer": "https://images2.imgbox.com/2c/25/USnHTO7n_o.jpg",
+    "dc": false,
+    "icon": {
+        "32": "/wp-content/uploads/2020/05/cropped-LogoMaid-32x32.png",
+        "192": "/wp-content/uploads/2020/05/cropped-LogoMaid-192x192.png",
+        "180": "/wp-content/uploads/2020/05/cropped-LogoMaid-180x180.png",
+        "270": "/wp-content/uploads/2020/05/cropped-LogoMaid-270x270.png"
+    },
+    "logo": {
+        "ori": "/wp-content/uploads/2020/05/Logo-v2.png",
+        "gray": "/wp-content/uploads/2020/05/Logo-v2-Gray.png"
+    }
+}
