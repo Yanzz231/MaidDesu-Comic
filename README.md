@@ -1,5 +1,14 @@
+<h1>Dashboard</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yanzz231/MaidDesu-Reading/master/lib/desa.PNG" width="550" />
+</p>
+<h1>Login</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yanzz231/MaidDesu-Reading/master/lib/login.PNG" width="550" />
+</p>
+<h1>Register</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yanzz231/MaidDesu-Reading/master/lib/regis.PNG" width="550" />
 </p>
 
 <p align="center">Official Yanz - RestApi.</p>
