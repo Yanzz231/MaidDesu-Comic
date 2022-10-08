@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/Yanzz231/MaidDesu-Reading/master/lib/regis.PNG" width="550" />
 </p>
 
-<p align="center">Official Yanz - RestApi.</p>
+<p align="center">Official MaidDesu - Comic.</p>
 
 ## Installation
 
@@ -19,7 +19,7 @@ Just by typing node . or node index.js in command prompt or on linux
 
 ## Disclaimer
 
-I am not affiliated with Yanz-Restapi, I made this project for educational purposes only.
+I am not affiliated with MaidDesu - Comic, I made this project for educational purposes only.
 
 If you like using this website, donate to them to keep their servers up and running.
 
