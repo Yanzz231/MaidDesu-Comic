@@ -15,7 +15,7 @@
 
 ## Installation
 
-Just by typing node . or node index.js in command prompt or on linux
+```node index.js```
 
 ## Disclaimer
 
