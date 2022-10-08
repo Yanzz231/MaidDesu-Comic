@@ -29,4 +29,4 @@ This project is under the [Yanzz](https://github.com/Yanzz231) And [Yanzz](https
 
 ## Helper
 
-Just DM me with instagram [Yanz](https://www.instagram.com/iyanmikasa/)
+Just DM me with instagram [Yanz](https://www.instagram.com/iyanmikasa/) 
