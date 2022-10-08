@@ -1,12 +1,12 @@
-<h1>Dashboard</h1>
+<h1>Dashboard 💻</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yanzz231/MaidDesu-Comic/master/lib/desa.PNG" width="550" />
 </p>
-<h1>Login</h1>
+<h1>Login 🧑🏻</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yanzz231/MaidDesu-Comic/master/lib/login.PNG" width="550" /> 
 </p>
-<h1>Register</h1>
+<h1>Register 📋</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yanzz231/MaidDesu-Comic/master/lib/regis.PNG" width="550" />
 </p>
@@ -27,6 +27,6 @@ If you like using this website, donate to them to keep their servers up and runn
 
 This project is under the [Yanzz](https://github.com/Yanzz231) And [Yanzz](https://github.com/RDTUTORIAL) license. 
 
-## Helper
+## Helper 🤖
 
 Just DM me with instagram [Yanz](https://www.instagram.com/iyanmikasa/) 
